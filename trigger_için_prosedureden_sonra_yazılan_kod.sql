@@ -1,0 +1,1 @@
+CALL rehberlikmerkezi.YazdirMesaj(@mesaj);
